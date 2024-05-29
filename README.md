@@ -1,4 +1,4 @@
-# Bienvenidxs a "Piedra, Papel, Tijera"
+# Bienvenidxs a "Piedra, Papel o Tijera"
 
 Nuestro proyecto consiste en crear el juego tradicional de "Piedra, Papel o Tijera" mediante el uso de Python.
 
